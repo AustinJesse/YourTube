@@ -1,0 +1,16 @@
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\bin\Debug\net8.0-windows\YourTube.exe
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\bin\Debug\net8.0-windows\YourTube.deps.json
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\bin\Debug\net8.0-windows\YourTube.runtimeconfig.json
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\bin\Debug\net8.0-windows\YourTube.dll
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\bin\Debug\net8.0-windows\YourTube.pdb
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\YourTube.Form1.resources
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\YourTube.csproj.GenerateResource.cache
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\YourTube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\YourTube.AssemblyInfoInputs.cache
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\YourTube.AssemblyInfo.cs
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\YourTube.csproj.CoreCompileInputs.cache
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\YourTube.dll
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\refint\YourTube.dll
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\YourTube.pdb
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\YourTube.genruntimeconfig.cache
+C:\Users\AJesse\Desktop\YourTube project\YourTube\YourTube\obj\Debug\net8.0-windows\ref\YourTube.dll
